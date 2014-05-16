@@ -110,16 +110,16 @@ Open the Microsoft Management Console.
 
 <pre>run mmc</pre>
 
-Follow the following steps:
+Follow the following steps
 1. File-Add/remove Snap-in, Certificates, Computer Account 
 2. Local Computer, Finish Button
 3. Go to Root Console Window
 4. Certificates(Local Computer) & select Trusted Root Certificate Authority
 5. Right Click over Certificates, All Tasks, Import and select 'server.crt' file
 
-<img width="80%" src=screen-shots/mmc-1.jpg "image 1"></img>
-<img width="80%" src=screen-shots/mmc-2.jpg "image 2"></img>
-<img width="80%" src=screen-shots/mmc-3.jpg "image 3"></img>
-<img width="80%" src=screen-shots/mmc-4.jpg "image 4"></img>
-<img width="80%" src=screen-shots/mmc-5.jpg "image 5"></img>
+<img width="80%" src="screen-shots/mmc-1.jpg" "image 1"></img>
+<img width="80%" src="screen-shots/mmc-2.jpg" "image 2"></img>
+<img width="80%" src="screen-shots/mmc-3.jpg" "image 3"></img>
+<img width="80%" src="screen-shots/mmc-4.jpg" "image 4"></img>
+<img width="80%" src="screen-shots/mmc-5.jpg" "image 5"></img>
  
