@@ -117,9 +117,9 @@ Follow the following steps
 4. Certificates(Local Computer) & select Trusted Root Certificate Authority
 5. Right Click over Certificates, All Tasks, Import and select 'server.crt' file
 
-<img width="80%" src="screen-shots/mmc-1.jpg" "image 1"></img>
-<img width="80%" src="screen-shots/mmc-2.jpg" "image 2"></img>
-<img width="80%" src="screen-shots/mmc-3.jpg" "image 3"></img>
-<img width="80%" src="screen-shots/mmc-4.jpg" "image 4"></img>
-<img width="80%" src="screen-shots/mmc-5.jpg" "image 5"></img>
+<img width="80%" src="https://raw.githubusercontent.com/mick26/HTTPS-todo-node-ng-mongo/master/screen-shots/mmc-1.JPG" "image 1"></img>
+<img width="80%" src="https://raw.githubusercontent.com/mick26/HTTPS-todo-node-ng-mongo/master/screen-shots/mmc-2.JPG" "image 2"></img>
+<img width="80%" src="https://raw.githubusercontent.com/mick26/HTTPS-todo-node-ng-mongo/master/screen-shots/mmc-3.JPG" "image 3"></img>
+<img width="80%" src="https://raw.githubusercontent.com/mick26/HTTPS-todo-node-ng-mongo/master/screen-shots/mmc-4.JPG" "image 4"></img>
+<img width="80%" src="https://raw.githubusercontent.com/mick26/HTTPS-todo-node-ng-mongo/master/screen-shots/mmc-5.JPG" "image 5"></img>
  
