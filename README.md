@@ -56,24 +56,24 @@ Also required when purchasing a SSL cert. Required to enter info about yourself/
 
 $ openssl req -nodes -new -key server.key -out server.csr
 
-Country Name(2 letter code) [AU]: IE
-State or Province Name:Leinster
-City: 
-Organisation Name:
-Organisation Unit Name:
-Common Name (e.g. server FQDN or Your name): localhost
-Email Address:mick.angular.app@gmail.com
+- Country Name(2 letter code) [AU]: IE
+- State or Province Name:Leinster
+- City: 
+- Organisation Name:
+- Organisation Unit Name:
+- Common Name (e.g. server FQDN or Your name): localhost
+- Email Address:
 
 Please enter the following extra attributes to be set with your certificate request
 A Challenge Password:
 An optional company name:
 
 4. Generate SSL Certificate (valid for 365 days)
-openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
+$ openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
 Signature ok
 subject=/details I gave..
 Getting private key
-Now have file: server.crt
+Now have the certificate file: server.crt
 
 
 
